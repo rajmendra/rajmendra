@@ -1,6 +1,6 @@
 # Rajmendra Deep Rawat
 
-👨‍💻 **Full-Stack Developer | Innovator | Tech Enthusiast | Gamer**
+👨‍💻 **Full-Stack Developer | Tech Enthusiast | Gamer**
 
 ## About Me
 
