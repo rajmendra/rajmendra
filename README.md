@@ -4,7 +4,7 @@
 
 ## About Me
 
-With an extensive 11-year journey in the dynamic realm of technology, Specializing in a wide array of technologies, I have honed my skills in **Node.js**, **React.js**, **MongoDB**, **PostgreSQL**, and **Next.js**. My journey also includes the exploration of diverse technologies, such as Angular, React Native, MS SQL, Express, GCP, AWS, and Kafka.
+With an extensive 13-year journey in the dynamic realm of technology, Specializing in a wide array of technologies, I have honed my skills in **Node.js**, **React.js**, **MongoDB**, **PostgreSQL**, and **Next.js**. My journey also includes the exploration of diverse technologies, such as Angular, React Native, MS SQL, Express, GCP, AWS, and Kafka.
 
 ## Professional Journey
 
